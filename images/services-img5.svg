@@ -1,0 +1,19 @@
+<svg width="404" height="320" viewBox="0 0 404 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 0H404V320H0V0Z" fill="#F9FAFC"/>
+<mask id="mask0_2619_28919" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="404" height="320">
+<path d="M0 0H404V320H0V0Z" fill="#EFF1F6"/>
+</mask>
+<g mask="url(#mask0_2619_28919)">
+<rect x="67.1299" y="62.531" width="268.913" height="194.939" rx="14" fill="white" stroke="#1F2E54" stroke-width="4"/>
+<rect x="48.9336" y="86.0693" width="198.462" height="117.482" rx="14" fill="#FF5B5D" stroke="#1F2E54" stroke-width="4"/>
+<line x1="90.5381" y1="223.647" x2="240.246" y2="223.647" stroke="#1F2E54" stroke-width="4" stroke-linecap="round"/>
+<ellipse cx="149.352" cy="224.525" rx="10.5476" ry="10.562" fill="#FFC452" stroke="#1F2E54" stroke-width="4" stroke-linecap="round"/>
+<path d="M137.877 163.47C133.877 165.826 128.832 162.942 128.832 158.3V131.321C128.832 126.679 133.877 123.795 137.877 126.151L160.779 139.641C164.719 141.961 164.719 147.66 160.779 149.981L137.877 163.47Z" fill="white" stroke="#1F2E54" stroke-width="4"/>
+<rect x="262.202" y="86.0693" width="59.3843" height="38.3384" rx="7" fill="white" stroke="#1F2E54" stroke-width="4"/>
+<rect x="262.202" y="135.128" width="59.3843" height="38.3384" rx="7" fill="white" stroke="#1F2E54" stroke-width="4"/>
+<path d="M289.06 161.163C287.06 162.341 284.537 160.899 284.537 158.578V150.016C284.537 147.695 287.06 146.253 289.06 147.431L296.328 151.712C298.298 152.873 298.298 155.722 296.328 156.882L289.06 161.163Z" fill="#FF5B5D" stroke="#1F2E54" stroke-width="4"/>
+<rect x="262.202" y="184.186" width="59.3843" height="38.3384" rx="7" fill="white" stroke="#1F2E54" stroke-width="4"/>
+<path d="M289.06 209.389C287.06 210.567 284.537 209.126 284.537 206.805V198.242C284.537 195.921 287.06 194.479 289.06 195.657L296.328 199.938C298.298 201.099 298.298 203.948 296.328 205.108L289.06 209.389Z" fill="#FF5B5D" stroke="#1F2E54" stroke-width="4"/>
+<path d="M289.06 112.105C287.06 113.283 284.537 111.841 284.537 109.52V100.958C284.537 98.6369 287.06 97.195 289.06 98.373L296.328 102.654C298.298 103.814 298.298 106.664 296.328 107.824L289.06 112.105Z" fill="#FF5B5D" stroke="#1F2E54" stroke-width="4"/>
+</g>
+</svg>
