@@ -344,7 +344,8 @@ button[data-type="primary-clr-btn"]:hover {
   button[data-type="primary-clr-btn"] {
     width: 100%;
   }
-  .col-cards {
+  .marketing-cnt .col-boxes,
+  .two-cards {
     grid-template-columns: 1fr;
   }
   .one-card .row {

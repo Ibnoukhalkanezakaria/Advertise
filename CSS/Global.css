@@ -298,9 +298,9 @@ hr {
 @media (max-width: 768px) {
   :root {
     /* ## Typography  */
-    --fs-1: calc(2.5rem);
-    --fs-2: calc(1.6rem);
-    --fs-5: calc(1.4rem);
+    --fs-1: calc(2rem);
+    --fs-2: calc(1.4rem);
+    --fs-5: calc(1.8rem);
     --p-s: 1rem;
     --p-s2: 1rem;
   }
@@ -313,5 +313,11 @@ hr {
   }
   .l-height {
     line-height: 1.6rem;
+  }
+}
+@media (max-width: 480px) {
+  :root {
+    /* ## Typography  */
+    --fs-5: calc(1rem);
   }
 }
