@@ -318,6 +318,7 @@ hr {
 @media (max-width: 480px) {
   :root {
     /* ## Typography  */
-    --fs-5: calc(1rem);
+    --fs-5: calc(1.2rem);
+    --fs-8: calc(1rem);
   }
 }

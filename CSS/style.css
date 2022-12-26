@@ -351,6 +351,9 @@ button[data-type="primary-clr-btn"]:hover {
   .one-card .row {
     flex-direction: column;
   }
+  .col-cards {
+    grid-template-columns: 1fr;
+  }
 }
 /* 768px */
 @media (max-width: 768px) {
